@@ -5,6 +5,7 @@
 ## 📦 Projects
 
 - _Coming soon_
+- [See our list of ideas →](https://github.com/denorg/denorg/issues/1)
 
 ## 💡 How we can help
 
