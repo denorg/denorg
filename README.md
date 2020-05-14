@@ -4,7 +4,8 @@
 
 ## 📦 Projects
 
-- _Coming soon_
+- [Denorg X](https://github.com/denorg/x): Mirror of deno.land/x for third-party Deno modules
+- _More coming soon_
 - [See our list of ideas →](https://github.com/denorg/denorg/issues/1)
 
 ## 💡 How we can help
