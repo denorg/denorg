@@ -4,8 +4,14 @@
 
 ## 📦 Projects
 
-- [Denorg X](https://github.com/denorg/x): Mirror of deno.land/x for third-party Deno modules
-- _More coming soon_
+- [🧺 Denorg X](https://github.com/denorg/x): Mirror of deno.land/x for third-party Deno modules
+- [🏁 Starter](https://github.com/denorg/starter): Deno starter repository with GitHub Actions CI
+- [📇 QR Code](https://github.com/denorg/qrcode): Generate QR code images in Deno
+- [🏷️ X Name](https://github.com/denorg/x-name): Check if a package name is available on deno.land/x
+- [🕸️ Online](https://github.com/denorg/online): Check if you're currently online in Deno
+- [🔌 Up](https://github.com/denorg/up): Check if a website is up with Deno
+- [🙃 Invert KV](https://github.com/denorg/invert-kv): Invert key-value pairs in an object
+- [📁 Recursive Readdir](https://github.com/denorg/recursive-readdir): Recursively read directories in Deno
 - [See our list of ideas →](https://github.com/denorg/denorg/issues/1)
 
 ## 💡 How we can help
